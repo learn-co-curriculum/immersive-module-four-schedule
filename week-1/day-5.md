@@ -1,4 +1,4 @@
-# Week 4 Day 5
+# Week 1 Day 5
 
 | Time | Activity |
 | --- | --- |
@@ -8,6 +8,7 @@
 12:00 | Lunch
 01:00 | Lecture
 03:00 | Labs
+05:00 | Feelings Friday
 
 ### Today's Topics
 + React Router
