@@ -8,7 +8,7 @@
 01:00 | Projects
 
 ### Today's Topics
-+ Redux
++ Testing with Jasmine / Enzyme
 
 ### Objectives
 

@@ -9,4 +9,4 @@
 01:00 | Projects
 
 ### Today's Topics
-+ Intro to Redux
++ Axios
