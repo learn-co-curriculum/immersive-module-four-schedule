@@ -1,17 +1,17 @@
-# Week 1 Day 4
+# Week 10 Day 4
 
 | Time | Activity |
 | --- | --- |
-09:00 | TODO
-09:30 | Blogs
+09:00 | Labs
+09:30 | Lecture: Container Components
 10:00 | Finish up React Labs
 12:00 | Lunch
-01:00 | Lecture
-03:00 | Project(?)
+01:00 | Labs
+04:00 | Finish Forms Lab Review
 
 ### Today's Topics
-+ React + Rails API
-+ CRUD in React
++ Component Lifecycle
++ Presentational vs. Container Components
 
 ### Objectives
 - Describe how to build a Rails API

@@ -1,26 +1,14 @@
-# Week 1 Day 5
+# Week 10, Day 5
 
 | Time | Activity |
 | --- | --- |
-09:00 | TODO
-09:30 | Blogs
-10:00 | React Labs
+09:00 | Labs
+09:30 | Lecture
+11:00 | React Labs
 12:00 | Lunch
-01:00 | Lecture
-03:00 | Labs
+01:00 | Mini Project
 05:00 | Feelings Friday
 
 ### Today's Topics
-+ React Router
-+ this.props.children
++ Async React Mini Project
 
-### Objectives
-- Explain how client-side routing works and what the trade-offs are
-- Describe React Router's approach to client-side routing 
-- Explain how routes are matched in React Router
-
-### Notes
-
-
-### Labs
-- [react-components-as-routes-lab]
